@@ -20,7 +20,7 @@
 
 
 ### Video Raw Workshop Sept/04
-https://drive.google.com/file/d/1CVZrUS8faYMiOBKWOcj5DV7dRNVS3Fzw/view
+https://drive.google.com/file/d/17Qp5l9u2fZAWCLPhlIPsEO6UpL0FDD0y/view?usp=sharing
 
 *Empezaremos por entender la relacion entre tipo tarea y hardware, para luego decidir cual modelo descargar.*
 
