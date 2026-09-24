@@ -2,6 +2,12 @@
 
 Este archivo registra cambios relevantes en la versión pública de **Uso de Modelos Locales**. No intenta reproducir el historial completo de diseño, investigación, QA o despliegue interno.
 
+## [1.0.1] — 2026-09-24
+
+### Changed
+
+- El vínculo a la grabación de la facilitación del 4 de septiembre en `curriculum/syllabus.md` ahora apunta a una copia compartida públicamente en Google Drive, accesible sin iniciar sesión ni pedir permiso. El syllabus en HedgeDoc tiene el mismo vínculo.
+
 ## [1.0.0] — 2026-09-24
 
 ### Added
